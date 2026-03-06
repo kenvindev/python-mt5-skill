@@ -51,7 +51,7 @@ Chạy từ thư mục gốc project:
 ## Cấu trúc thư mục
 
 ```
-agent-skill-python-mt5/
+python-mt5/
 ├── README.md
 ├── SKILL.md
 ├── examples.md
