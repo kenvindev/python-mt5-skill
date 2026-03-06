@@ -51,7 +51,7 @@ Chạy từ thư mục gốc project:
 ## Cấu trúc thư mục
 
 ```
-python-mt5/
+.cursor/skills/python-mt5/
 ├── README.md
 ├── SKILL.md
 ├── examples.md
